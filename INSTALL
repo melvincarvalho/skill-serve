@@ -1,0 +1,12 @@
+# PREREQUISITES
+sudo npm install -g pm2
+
+# INSTALL
+# add to package.json
+
+  "scripts": {
+    "server": "pm2 start --name server npx -- serve"
+  },
+
+# NOTES
+# --name server may be changed to the name of your agent
