@@ -1,0 +1,26 @@
+{
+  "name": "skill-serve",
+  "version": "0.0.1",
+  "description": "aam skill serve",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melvincarvalho/skill-serve.git"
+  },
+  "keywords": [
+    "skill",
+    "aam"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melvincarvalho/skill-serve/issues"
+  },
+  "homepage": "https://github.com/melvincarvalho/skill-serve#readme",
+  "dependencies": {
+    "serve": "^12.0.0"
+  }
+}
