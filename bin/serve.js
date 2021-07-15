@@ -9,6 +9,7 @@ try {
   const configFile = process.cwd() + '/config/skill-serve.json'
   console.log('config file', configFile)
   const config = require(configFile)
+  console.log('config', config)
   if (config && config.port) {
     port = config.port
   }
@@ -16,6 +17,7 @@ try {
     root = config.root
     options.public = root
   }
+  console.log('options', options)
 } catch (e) {
   console.error(e)
 }
@@ -23,9 +25,9 @@ try {
 const server = http.createServer((request, response) => {
   // You pass two more arguments for config and middleware
   // More details here: https://github.com/vercel/serve-handler#options
-  return handler(request, response, {
+  return handler(request, response,
     options
-  })
+  )
 })
 
 server.listen(port, () => {
