@@ -10,7 +10,8 @@ npm install skill-serve
   },
 
 # CONFIG
-# in ./config add skill-serve.json with port: 12345
+# in ./config add skill-serve.json with "port": 12345
+# "root" will serve a document root
 
 # NOTES
 # --name server may be changed to the name of your agent
