@@ -1,12 +1,16 @@
 # PREREQUISITES
 sudo npm install -g pm2
+npm install skill-serve
 
 # INSTALL
 # add to package.json
 
   "scripts": {
-    "server": "pm2 start --name server npx -- serve"
+    "server": "pm2 start --name server ./node_modules/skill-serve/bin/serve.js"
   },
+
+# CONFIG
+# in ./config add skill-serve.json with port: 12345
 
 # NOTES
 # --name server may be changed to the name of your agent

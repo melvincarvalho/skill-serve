@@ -1,6 +1,6 @@
 {
   "name": "skill-serve",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "aam skill serve",
   "main": "index.js",
   "scripts": {
