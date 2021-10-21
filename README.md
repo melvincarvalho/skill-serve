@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Skill:Serve</h1>
+  <h1>skill-serve</h1>
 </div>
 
 <div align="center">  
@@ -15,8 +15,8 @@ Serve an autonomous agent
 ---
   
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/melvincarvalho/skill-serve/blob/gh-pages/LICENSE)
-![npm](https://img.shields.io/npm/v/skill-serve)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![npm](https://img.shields.io/npm/v/skill-serve)](https://npmjs.com/package/skill-serve)
 [![npm](https://img.shields.io/npm/dw/skill-serve.svg)](https://npmjs.com/package/skill-serve)
 
 ## Introduction
