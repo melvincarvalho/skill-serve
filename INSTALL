@@ -8,6 +8,7 @@ npm install skill-serve
   "scripts": {
     "server": "pm2 start --name server ./node_modules/skill-serve/bin/serve.js"
   },
+# rename --name server to the name of your server
 
 # CONFIG
 # in ./config add skill-serve.json with "port": 12345
