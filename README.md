@@ -19,6 +19,10 @@ Serve an autonomous agent
 ![npm](https://img.shields.io/npm/v/skill-serve)
 [![npm](https://img.shields.io/npm/dw/skill-serve.svg)](https://npmjs.com/package/skill-serve)
 
+## Introduction
+
+Serve is a modular skill to be used in composing [autonomous agents](https://aam.wtf/)
+
 ## Installation
 
 ```sh
