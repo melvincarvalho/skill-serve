@@ -26,7 +26,7 @@ Serve is a modular skill to be used in composing [autonomous agents](https://aam
 ## Installation
 
 ```sh
-sudo npm install -g skill-serve
+npm install skill-serve
 ```
 
 ## License
