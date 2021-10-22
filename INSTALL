@@ -6,7 +6,7 @@ npm install skill-serve
 # add to package.json
 
   "scripts": {
-    "server": "pm2 start --name server ./node_modules/skill-serve/bin/serve.js"
+    "server": "pm2 start --name <server> ./node_modules/skill-serve/bin/serve.js"
   },
 # rename --name server to the name of your server
 
@@ -16,3 +16,4 @@ npm install skill-serve
 
 # NOTES
 # --name server may be changed to the name of your agent
+# move the server into your tree if you want to modify behaviour
