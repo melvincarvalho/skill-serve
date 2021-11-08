@@ -31,6 +31,6 @@ Serve is a modular skill to be used in composing [autonomous agents](https://aam
 npm install skill-serve
 ```
 
-## License
+## ⚖️ License
 
-- MIT
+This project is under the MIT License. See the [LICENSE](https://github.com/melvincarvalho/skill-serve/blob/gh-pages/LICENSE) file for the full license text.
