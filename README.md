@@ -23,6 +23,8 @@ Serve an autonomous agent
 
 ## ⚡️ Features
 
+---
+
 &nbsp;&nbsp;✓&nbsp; Serve an app  
 &nbsp;&nbsp;✓&nbsp; Browse file system  
 &nbsp;&nbsp;✓&nbsp; Configure root  
