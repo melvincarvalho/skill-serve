@@ -21,15 +21,31 @@ Serve an autonomous agent
 [![Github Stars](https://img.shields.io/github/stars/melvincarvalho/skill-serve.svg)](https://github.com/melvincarvalho/skill-serve/)
 
 
-## Introduction
+## ⚡️ Features
 
-Serve is a modular skill to be used in composing [autonomous agents](https://aam.wtf/)
+&nbsp;&nbsp;✓&nbsp; Serve an app  
+&nbsp;&nbsp;✓&nbsp; Browse file system  
+&nbsp;&nbsp;✓&nbsp; Configure root  
+&nbsp;&nbsp;✓&nbsp; Extensible web actions  
 
-## Installation
+## ✍️ Getting Started
+
+---
+
+### Introduction
+
+Serve is a modular skill to be used in composing [autonomous agents](https://aam.wtf/).  It allows you to create a web interface to the agent.
+
+---
+
+### Installation
+
 
 ```sh
 npm install skill-serve
 ```
+
+---
 
 ## ⚖️ License
 
