@@ -44,7 +44,7 @@ Serve is a modular skill to be used in composing [autonomous agents](https://aam
 
 
 ```sh
-npm install skill-serve
+aam skill serve
 ```
 
 ---
